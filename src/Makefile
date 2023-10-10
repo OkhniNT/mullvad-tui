@@ -14,4 +14,4 @@ clean:
 	rm debug.o
 
 release:
-	$(CC) $(CLIBS) main.c -o release.o
+	$(CC) $(CLIBS) main.c -o mulltui.o
